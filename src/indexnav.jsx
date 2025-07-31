@@ -19,7 +19,7 @@ export default function CleanNavbar() {
           transition={{ duration: 0.5 }}
           className="text-2xl font-extrabold text-blue-600 cursor-pointer tracking-wide"
         >
-          Medicare
+          Medicose
         </motion.h1>
 
         {/* Desktop Menu */}
